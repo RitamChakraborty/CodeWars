@@ -6,3 +6,4 @@
 - [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript)
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript)
 - [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript)
+- [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript)
