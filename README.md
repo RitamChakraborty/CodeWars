@@ -16,5 +16,6 @@
 | [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/javascript) | [Code]() |
 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript) | [Code]() |
 | [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript) | [Code]() |
+| [Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript) | [Code]() |
 | []() | [Code]() |
 
