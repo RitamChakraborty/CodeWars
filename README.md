@@ -12,4 +12,6 @@
 | [Find the odd Int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript) | [Code]() |
 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/javascript) | [Code]() |
 | [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript) | [Code]() |
+| [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript) | [Code]() |
+| []() | [Code]() |
 
