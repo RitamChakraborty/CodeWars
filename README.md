@@ -18,5 +18,6 @@
 | [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript) | [Code]() |
 | [Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript) | [Code]() |
 | [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/javascript) | [Code]() |
+| [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/javascript) | [Code]() |
 | []() | [Code]() |
 
