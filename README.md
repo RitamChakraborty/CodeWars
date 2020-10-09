@@ -19,5 +19,6 @@
 | [Format a string of names like 'Bart, Lisa & Maggie'.](https://www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript) | [Code]() |
 | [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/javascript) | [Code]() |
 | [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/javascript) | [Code]() |
+| [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/javascript) | [Code]() |
 | []() | [Code]() |
 
