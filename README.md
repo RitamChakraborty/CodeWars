@@ -23,6 +23,8 @@
 | [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/javascript) | [Code](https://github.com/RitamChakraborty/CodeWars/blob/3a864c3e69/Roman%20Numerals%20Encoder/main.js) |
 | [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/javascript) | [Code](https://github.com/RitamChakraborty/CodeWars/blob/3a864c3e69/Where%20my%20anagrams%20at%3F/main.js) |
 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c/train/javascript) | [Code](https://github.com/RitamChakraborty/CodeWars/blob/3a864c3e69/Maximum%20subarray%20sum/main.js) |
-| [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/javascript) | [Code]() |
+| [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/javascript) | [Code](https://github.com/RitamChakraborty/CodeWars/blob/master/Vasya%20-%20Clerk/main.js) |
+| [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript) | [Code]() |
+| [Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/train/javascript) | [Code]() |
 | []() | [Code]() |
 
