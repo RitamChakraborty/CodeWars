@@ -26,5 +26,6 @@
 | [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/javascript) | [Code](https://github.com/RitamChakraborty/CodeWars/blob/master/Vasya%20-%20Clerk/main.js) |
 | [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript) | [Code]() |
 | [Pick peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/train/javascript) | [Code]() |
+| [SnailSort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/javascript) | [Code]() |
 | []() | [Code]() |
 
