@@ -29,5 +29,6 @@
 | [SnailSort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/javascript) | [Code]() |
 | [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript) | [Code]() |
 | [Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001/train/javascript) | [Code]() |
+| [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/solutions/javascript) | [Code]() |
 | []() | [Code]() |
 
