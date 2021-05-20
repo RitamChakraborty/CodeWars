@@ -31,5 +31,5 @@
 | [Nesting Structure Comparison](https://www.codewars.com/kata/520446778469526ec0000001/train/javascript) | [Code]() |
 | [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/solutions/javascript) | [Code]() |
 | [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb/solutions/javascript) | [Code]() |
+| [Codewars style ranking system](https://www.codewars.com/kata/51fda2d95d6efda45e00004e/train/javascript) | [Code]() |
 | []() | [Code]() |
-
