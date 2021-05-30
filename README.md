@@ -32,5 +32,6 @@
 | [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/solutions/javascript) | [Code]() |
 | [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb/solutions/javascript) | [Code]() |
 | [Codewars style ranking system](https://www.codewars.com/kata/51fda2d95d6efda45e00004e/train/javascript) | [Code]() |
-| [Validate Sudoku with size `NxN`](https://www.codewars.com/kata/540afbe2dc9f615d5e000425/solutions/javascript) | [Code]() |
+| [Validate Sudoku with size `NxN`](https://www.codewars.com/kata/540afbe2dc9f615d5e000425/train/javascript) | [Code]() |
+| [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/train/javascript) | [Code]() |
 | []() | [Code]() |
